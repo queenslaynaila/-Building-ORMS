@@ -1,0 +1,10 @@
+ORM
+  -Object relational datanases
+  - classes are maped to tables
+  - instances to record in database
+
+BENEFITS ORM
+-cuts down on repetive code
+-gives convention to folow
+
+
